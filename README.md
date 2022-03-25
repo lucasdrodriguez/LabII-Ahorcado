@@ -26,3 +26,8 @@ Una vez esto hecho, codear los dos metodos ( MostrarPalabras Y EliminarPalabra )
 - MostrarPalabras : El primero debera mostrar en pantalla una nueva opcion del menu donde se vean todas las palabras cargadas. 
 - EliminarPalabra:  El otro deberá permitir seleccionar una palabra de las que se encuentran cargadas y  eliminarla. 
 
+:::tip
+
+Analizar el código con paciencia, intentar deducir los errores y debuggear correctamente. Prestar atención a que clase pertenece cada método, que tipo de dato debe retornar cada método y prestar mucha atención a los detalles.
+
+:::
