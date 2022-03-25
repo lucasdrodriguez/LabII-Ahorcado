@@ -31,3 +31,5 @@ Una vez esto hecho, codear los dos metodos ( MostrarPalabras Y EliminarPalabra )
 Analizar el código con paciencia, intentar deducir los errores y debuggear correctamente. Prestar atención a que clase pertenece cada método, que tipo de dato debe retornar cada método y prestar mucha atención a los detalles.
 
 :::
+
+:::
