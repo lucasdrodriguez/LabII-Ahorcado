@@ -1,8 +1,7 @@
-# LabII-Ahorcado
  
-Ejercicio Juego Ahorcado.
+# Ejercicio Juego Ahorcado.
 
-Reglas:
+### Reglas:
 
 El ahorcado (también llamado colgado) es un juego de adivinanzas de lápiz y papel para dos o más jugadores. Un jugador piensa en una palabra, frase u oración y el otro trata de adivinarla según lo que sugiere por letras o dentro de un cierto número de oportunidades.
 
@@ -11,19 +10,19 @@ En este caso, el sistema debe automaticamente elegir una palabra de forma aleato
 Usando una fila de guiones, se representa la palabra a adivinar.. Si el jugador adivinador sugiere una letra que aparece en la palabra, el sistema la ubicará en todas sus posiciones correctas.
  Si la letra no se encuentra en la palabra, se dibujará de a poco la silueta de la persona. 
  
- El juego termina cuando:
+### El juego termina cuando:
 
-El jugador adivinador completa la palabra.
-o
-El sistema dibuja la silueta completa.
+  - El jugador adivinador completa la palabra.
+
+  - El sistema dibuja la silueta completa.
 
 
-Consigna:
+## Consigna:
 
 El programa tiene una serie de errores que deberán ser solucionados para que el juego pueda jugarse correctamente.
 
 Una vez esto hecho, codear los dos metodos ( MostrarPalabras Y EliminarPalabra ) que se encuentran en la clase LOGICA:
 
-MostrarPalabras : El primero debera mostrar en pantalla una nueva opcion del menu donde se vean todas las palabras cargadas. 
-EliminarPalabra:  El otro deberá permitir seleccionar una palabra de las que se encuentran cargadas y  eliminarla. 
+-MostrarPalabras : El primero debera mostrar en pantalla una nueva opcion del menu donde se vean todas las palabras cargadas. 
+-EliminarPalabra:  El otro deberá permitir seleccionar una palabra de las que se encuentran cargadas y  eliminarla. 
 
