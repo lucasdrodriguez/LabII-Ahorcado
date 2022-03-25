@@ -23,6 +23,6 @@ El programa tiene una serie de errores que deberán ser solucionados para que el
 
 Una vez esto hecho, codear los dos metodos ( MostrarPalabras Y EliminarPalabra ) que se encuentran en la clase LOGICA:
 
--MostrarPalabras : El primero debera mostrar en pantalla una nueva opcion del menu donde se vean todas las palabras cargadas. 
--EliminarPalabra:  El otro deberá permitir seleccionar una palabra de las que se encuentran cargadas y  eliminarla. 
+- MostrarPalabras : El primero debera mostrar en pantalla una nueva opcion del menu donde se vean todas las palabras cargadas. 
+- EliminarPalabra:  El otro deberá permitir seleccionar una palabra de las que se encuentran cargadas y  eliminarla. 
 
